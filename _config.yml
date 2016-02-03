@@ -5,11 +5,11 @@ url: "http://udha.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: udha github page
+  title: Nicholas Meredith's Blog
   #avatar: avatar.png
   avatar: avatar_ndm.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Nicholas Meredith's blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text:
