@@ -23,10 +23,10 @@ theme:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "Nicholas.Meredith"
   flickr:
-  github: "udha/udha.github.io"
-  google_plus:
+  github: "udha"
+  google_plus: "+NicholasMeredith"
   instagram:
   linkedin:  # Full URL
   pinterest:
@@ -37,7 +37,7 @@ theme:
   tumblr:
   twitter: "MrNickMeredith"
   wordpress:
-  youtube:
+  youtube: "udha"
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
